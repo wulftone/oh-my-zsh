@@ -26,7 +26,7 @@ $lavender%(!.#.»)%{$reset_color%} '
 PROMPT2='%{$fg[red]%}\ %{$reset_color%}'
 RPS1='${return_code}'
 
- git settings
+# git settings
 ZSH_THEME_GIT_PROMPT_PREFIX="$light_blue(branch:"
 ZSH_THEME_GIT_PROMPT_SUFFIX="$light_blue)%{$reset_color%} "
 
